@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">A Self-Taught Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=landienzla&label=Profile%20views&color=0e75b6&style=flat" alt="landienzla" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=landienzla&label=Profile%20views&color=0e75b6&style=flat" alt="landienzla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=landienzla" alt="landienzla" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=landienzla" alt="landienzla" /></a> </p>
 
 - 🌱 I’m currently learning **React,Flask,Express,Nodejs,Graphql,MongoDB,Bootstrap,MDBBootstrap**
 
