@@ -24,4 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=landienzla&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="landienzla" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=landienzla&theme=cobalt&v=2" alt="wakatime"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=landienzla&show_icons=true&locale=en&theme=cobalt" alt="landienzla" /></p>
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+![counter](https://enogakc7lzzxrpd.m.pipedream.net)
