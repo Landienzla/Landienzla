@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=landienzla&label=Profile%20views&color=193549&style=flat" alt="landienzla" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=landienzla" alt="landienzla" /></a> </p>
 
 - 🌱 I’m currently learning **React,Flask,Express,Nodejs,Graphql,MongoDB,Bootstrap,MDBBootstrap**
 
@@ -24,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=landienzla&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="landienzla" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=landienzla&theme=cobalt&v=2" alt="wakatime"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=landienzla&show_icons=true&locale=en&theme=cobalt" alt="landienzla" /></p>
-<img src="https://enogakc7lzzxrpd.m.pipedream.net"/>
