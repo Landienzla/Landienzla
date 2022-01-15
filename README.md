@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Flask, Bootstrap**
 
 - 📫 How to reach me **talhamertkarakoc@gmail.com**
 
