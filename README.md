@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=landienzla&label=Profile%20views&color=193549&style=flat" alt="landienzla" /> </p>
 
 
-- 🌱 I’m currently learning **React,Flask,Express,Nodejs,Graphql,MongoDB,Bootstrap,MDBBootstrap**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React**
 
