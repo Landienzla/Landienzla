@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=landienzla&label=Profile%20views&color=193549&style=flat" alt="landienzla" /> </p>
 <p align="center"> <a href="https://wakatime.com/@38841a97-ba31-40e9-9a0b-28f5046de73f"><img src="https://wakatime.com/badge/user/38841a97-ba31-40e9-9a0b-28f5046de73f.svg" alt="Total time coded since Jul 17 2021" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **React, Flask, Bootstrap**
 
